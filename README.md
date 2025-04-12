@@ -1,4 +1,4 @@
-# Retail-Store-Data-Analysis
+##### Retail-Store-Data-Analysis
 ## Project Background
 ### Project Background
 #### Project Background

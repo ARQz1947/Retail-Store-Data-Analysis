@@ -5,7 +5,7 @@ The data set used for data analysis contains sales records of four years (from 2
 Profit analysis for this store shows a steady increase over the years. However, the profit growth rate was at it's peak in 2023 at 32%; which declined to more than half to 14%, the very next year. Canon advanced copier being the top product with the most profit, shows 225% more profit than the very next product in line, a plastic comb binding machine. West and East regions remained the top 2 regions with highest sales throughout the years. Their contribution is approximately 32% and 30% to the total sales, respectively. However, It remained difficult for the business to attract new and retain existing customers over the years. The new and repeat customers ratios declined by 20% and 80%, respectively from its starting year.
 ## Insights
 ### Profit Growth & Trends
-- The store gathered around $300K in profits over the years with average discount of -- per sub-category.
+- The store gathered around $300K in profits over the years with total sales of around $2.3 million.
 -  
 ### Sales and Discount
 ### Order and Shipment

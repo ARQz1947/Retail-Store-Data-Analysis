@@ -8,7 +8,8 @@ Profit analysis for this store shows a steady increase over the years. However, 
 - The store gathered around $300K in profits over the years with total sales of $2.3 million.
 - Year 2023 was the best year for the business, it showed highest profit growth rate of 32%. However, it rapidly declined the very next year and settled for 14% in 2024.
 - West and East regions remains the most profitable of them all. Contributing 69% to overall profit.
-- It is observed that discounts tend to increase products sales. However, the business takes big hit with the discounts. The average profit for discounted products is $-6.5 and $66.3 for products sold at original price.
+- It is observed that discounts tend to increase sales. However, the business takes big hit with the discounts. The average profit per order for discounted products is $-6.5 and $66.3 for products sold at original price.
+- Profit surged in the months of September, November and December. However, the start of the year i.e. months of January & February, has been slow for all the years. It have shown lower profits.
 ### Sales and Discount
 ### Order and Shipment
 ### Recommendations

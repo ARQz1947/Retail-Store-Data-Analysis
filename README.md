@@ -4,7 +4,7 @@ The data set used for data analysis contains sales records of four years (from 2
 ## Executive Summary
 Profit analysis for this store shows a steady increase year-over-year. However, the profit growth rate was at it's peak in 2023 at 32%. Canon advanced copier being the top product with the most profit, shows 225% more profit than the very next product in line, a plastic comb binding machine. West and East regions remained the top 2 regions with highest sales throughout the years. Their contribution is approximately 32% and 30% to the total sales, respectively. However, It remained difficult for the business to attract new and retain existing customers over the years. The new and repeat customers ratios declined by 20% and 80%, respectively from its starting year.
 
-<p align="center"><img align="center" src="https://github.com/user-attachments/assets/0e40e9fb-a81b-4a60-8a0d-eb75df7bf9cb" alt="Alt Text" style="width:60%; height:50%;"></p>
+<p align="center"><img align="center" src="https://github.com/user-attachments/assets/0e40e9fb-a81b-4a60-8a0d-eb75df7bf9cb" alt="Alt Text" style="width:60%; height:30%;"></p>
 
 [Tableau Dashboard](https://public.tableau.com/views/RetailShop-ExecutiveSummary/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Insights

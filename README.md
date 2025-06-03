@@ -6,7 +6,7 @@ Profit analysis for this store shows a steady increase year-over-year. However, 
 
 <p align="center"><img align="center" src="https://github.com/user-attachments/assets/0e40e9fb-a81b-4a60-8a0d-eb75df7bf9cb" alt="Alt Text" style="width:60%; height:10%;"></p>
 
-[Tableau Dashboard](https://public.tableau.com/views/RetailShop-ExecutiveSummary/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<p align="center">[Tableau Dashboard](https://public.tableau.com/views/RetailShop-ExecutiveSummary/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)</p>
 ## Insights
 ### Profit Growth & Trends
 - The store gathered around $300K in profits over the years with total sales of $2.3 million.

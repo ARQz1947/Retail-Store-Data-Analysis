@@ -18,7 +18,8 @@ For a comprehensive business overview, you can explore the interactive tableau d
 ### Customer Growth & Retention
 - New customer growth rate is declining steadily year-over-year. There is a slight recovery in new customer growth in 2023 (0.93%) than 2022 (-14.5%). Business can consider improving their marketing strategy and conversion rate
 - Business has also seen decline in repeat customer rate (more than 1 order per year), consistently over the years. It declined from 31% in 2021 to 60% in 2024. It could be customer dissatisfaction, lack of re-engagement strategies, or increased competition.
-- 
+- Business has not introduced incentive program for customers. Business can use various KPIs such as customer with most sales or profit per quarter or year.
+- Business can also introduce loyalty program to customers who are frequesntly buying annually. There are many customers who have bought more than once a year. Such incentive based programs forms a sense of relationship among the business and customer. <i> add result set of customers who bough more than twice a year</i>
 ### Order and Shipment
 ### Recommendations
 

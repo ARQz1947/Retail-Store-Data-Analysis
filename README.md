@@ -19,10 +19,10 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - New customer growth rate is declining steadily year-over-year. There is a slight recovery in new customer growth in 2023 (0.93%) than 2022 (-14.5%). Business can consider improving their marketing strategy and conversion rate
 - Business has also seen decline in repeat customer rate (more than 1 order per year), consistently over the years. It declined from 31% in 2021 to 60% in 2024. It could be customer dissatisfaction, lack of re-engagement strategies, or increased competition.
 - Business has not introduced incentive program for customers. Business can use various KPIs such as customer with the most sales or profit per quarter or year.
-- Business can also introduce loyalty program to customers who are frequently buying annually. Many customers have bought more than once a year. Such incentive based programs form a sense of relationship between the business and the customer. <i> add result set of customers who bough more than twice a year</i>
+- Business can also introduce loyalty program to customers who are frequently buying annually. Many customers have bought more than once a year. Such incentive based programs form a sense of relationship between the business and the customer. <i> add result set of customers who bought more than twice a year</i>
 ### Order
-- The order rate sees growth in each year showing a spike of 27% in 2023 from 7% the previous year. In 2024, the growth rate was 28% though the profits growth rate was lower (14%) than the previous year. This is because of high number of discounted order in the year relative to previous years.
-- 
+- The order rate sees growth in each year showing a spike of 27% in 2023 from 7%, the previous year. In 2024, the growth rate was 28% though the profits growth rate was lower (14%) than 2023. This is because of high number of discounted order (25% growth rate) in the year.
+- West Region has high profitability despite moderate AOV(Avg Order Value) becuase of highest order count. Central had relatively lower AOV and declining profit, suggesting performance issues in the region.
 ### Shipment
 ### Product
 ### Recommendations

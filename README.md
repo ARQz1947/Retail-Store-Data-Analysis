@@ -22,7 +22,9 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - Business can also introduce loyalty program to customers who are frequently buying annually. Many customers have bought more than once a year. Such incentive based programs form a sense of relationship between the business and the customer. <i> add result set of customers who bought more than twice a year</i>
 ### Order
 - The order rate sees growth in each year showing a spike of 27% in 2023 from 7%, the previous year. In 2024, the growth rate was 28% though the profits growth rate was lower (14%) than 2023. This is because of high number of discounted order (25% growth rate) in the year.
-- West Region has high profitability despite moderate AOV(Avg Order Value) becuase of highest order count. Central has lower AOV and declining profits, suggesting performance issues in the region.
+- West region has high profitability despite moderate AOV(Avg Order Value) becuase of highest order count. Central has lower AOV and declining profits, suggesting performance issues in the region.
+- During the first couple of years AOV of 3 out of 4 regions was below yearly AOV
+- Each passing year shows that AOV of more and more regions is coming closer to the yearly AOV of that.  
 ### Shipment
 ### Product
 ### Recommendations

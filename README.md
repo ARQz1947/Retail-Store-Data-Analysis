@@ -23,8 +23,9 @@ For a comprehensive business overview, you can explore the interactive tableau d
 ### Order
 - The order rate sees growth in each year showing a spike of 27% in 2023 from 7%, the previous year. In 2024, the growth rate was 28% though the profits growth rate was lower (14%) than 2023. This is because of high number of discounted order (25% growth rate) in the year.
 - West region has high profitability despite moderate AOV(Avg Order Value) becuase of highest order count. Central has lower AOV and declining profits, suggesting performance issues in the region.
-- During the first couple of years AOV of 3 out of 4 regions was below yearly AOV
-- Each passing year shows that AOV of more and more regions is coming closer to the yearly AOV of that.  
+- Analysis of orders and profits for regions per year shows that West region has highest orders with highest years over the years except for the year 2022. When orders were the highest but not the profit.
+- The visual analysis reveals an upward-sloping trend line between total orders and profits, with a correlation coefficient of 0.82. This indicates a strong positive relationship, suggesting that as the number of orders increases, profits tend to increase as well.
+
 ### Shipment
 ### Product
 ### Recommendations

@@ -6,9 +6,7 @@ Profit analysis for this store shows a steady increase year-over-year. However, 
 For a comprehensive business overview, you can explore the interactive tableau dashboard <a href="https://public.tableau.com/views/RetailShop-ExecutiveSummary/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">here</a>. <i>(link opens in same tab)</i>
 
 <p align="center">
-  <a href="https://public.tableau.com/views/RetailShop-ExecutiveSummary/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
-    <img align="center" src="images/dashboard.png" alt="Alt Text" style="width:60%; height:10%;">
-  </a>
+    <img align="center" src="images/dashboard.png" alt="Alt Text" style="width:60%; height:10%;"/>
 </p>
 
 ## Insights

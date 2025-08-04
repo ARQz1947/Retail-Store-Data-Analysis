@@ -30,7 +30,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
   
 <p align="center">
   <img src="images/orders&profits.png" style="margin-right: 10px;" width = "500" height = "500" />
-  <img src="images/orders&profits_trend.png" width = "390" height = "238" />
+  <img src="images/orders&profits_trend.png" width = "390" height = "237" />
 </p>
 
 ### Shipment

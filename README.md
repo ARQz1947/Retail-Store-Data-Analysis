@@ -29,8 +29,8 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - The visual analysis reveals an upward-sloping trend line between total orders and profits, with a correlation coefficient of 0.82. This indicates a strong positive relationship, suggesting that as the number of orders increases, profits tend to increase as well.
   
 <p align="center">
-  <img src="images/orders&profits.png" style="margin-right: 10px;" width = "500" height = "1200" />
-  <img src="images/orders&profits_trend.png" width = "500" height = "500" />
+  <img src="images/orders&profits.png" style="margin-right: 10px;" width = "500" height = "2200" />
+  <img src="images/orders&profits_trend.png" width = "500" height = "300" />
 </p>
 
 ### Shipment

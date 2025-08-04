@@ -27,7 +27,11 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - West region has high profitability despite moderate AOV(Avg Order Value) becuase of highest order count. Central has lower AOV and declining profits, suggesting performance issues in the region.
 - Analysis of orders and profits for regions per year shows that West region has highest orders with highest years over the years except for the year 2022. When orders were the highest but not the profit.
 - The visual analysis reveals an upward-sloping trend line between total orders and profits, with a correlation coefficient of 0.82. This indicates a strong positive relationship, suggesting that as the number of orders increases, profits tend to increase as well.
-
+  
+<p align="center">
+  <img src="images/orders&profits.png" alt="Image 1" width="45%" style="margin-right: 10px;" />
+  <img src="images/orders&profits_trend.png" alt="Image 2" width="45%" />
+</p>
 ### Shipment
 ### Product
 ### Recommendations

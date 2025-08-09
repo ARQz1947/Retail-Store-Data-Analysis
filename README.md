@@ -34,6 +34,8 @@ For a comprehensive business overview, you can explore the interactive tableau d
 </p>
 
 ### Shipment
+- The business needs drastic improvement to it's shipping process. Data shows that more than 25% of orders are shipped late every year. This weakens the positive impact of early shipment percentage (~50% yearly).
+- 
 ### Product
 ### Recommendations
 

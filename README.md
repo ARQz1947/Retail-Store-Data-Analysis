@@ -41,7 +41,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
 
 <p align="center">
   <img src="images/LateShipByMethod.png" style="margin-right: 10px;" width = "500" height = "350" />
-  <img src="images/LateShipByRegion.png" width = "500" height = "680"/>
+  <img src="images/LateShipByRegion.png" width = "500" height = "690"/>
 </p>
 
 ### Product

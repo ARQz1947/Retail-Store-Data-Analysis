@@ -40,8 +40,8 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - Two shipping methods i.e. Second & Standard class, are shipping orders early; 38.9% and 69.7% respectively of all the orders shipped through these methods.
 
 <p align="center">
-  <img src="images/LateShipByMethod.png" style="margin-right: 10px;" />
-  <img src="images/LateShipByRegion.png" />
+  <img src="images/LateShipByMethod.png" style="margin-right: 10px;" width:50%; height:50%; />
+  <img src="images/LateShipByRegion.png" width:50%; height:50%;/>
 </p>
 
 ### Product

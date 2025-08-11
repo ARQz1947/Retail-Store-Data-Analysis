@@ -20,12 +20,12 @@ For a comprehensive business overview, you can explore the interactive tableau d
 ### Customer Growth & Retention
 - New customer growth rate is declining steadily year-over-year. There is a slight recovery in new customer growth in 2023 (0.93%) than 2022 (-14.5%). Business can consider improving their marketing strategy and conversion rate
 - Business has also seen decline in repeat customer rate (more than 1 order per year), consistently over the years. It declined from 31% in 2021 to 60% in 2024. It could be customer dissatisfaction, lack of re-engagement strategies, or increased competition.
-- Business has not introduced incentive program for customers. Business can use various KPIs such as customer with the most sales or profit per quarter or year.
+- Business has not introduced incentive program for customers. It can use various KPIs such as customer with the most sales or profit per quarter or year.
 - Business can also introduce loyalty program to customers who are frequently buying annually. Many customers have bought more than once a year. Such incentive based programs form a sense of relationship between the business and the customer. <i> add result set of customers who bought more than twice a year</i>
 ### Order
 - The order rate sees growth in each year showing a spike of 27% in 2023 from 7%, the previous year. In 2024, the growth rate was 28% though the profits growth rate was lower (14%) than 2023. This is because of high number of discounted order (25% growth rate) in the year.
-- West region has high profitability despite moderate AOV(Avg Order Value) becuase of highest order count. Central has lower AOV and declining profits, suggesting performance issues in the region.
-- Analysis of orders and profits for regions per year shows that West region has highest orders with highest years over the years except for the year 2022. When orders were the highest but not the profit.
+- West region has high profitability despite moderate AOV(Avg Order Value). Central has lower AOV and declining profits, suggesting performance issues in the region.
+- Analysis of orders and profits shows that West region has highest orders & profits each year except for 2022. When orders were the highest but not the profit.
 - The visual analysis reveals an upward-sloping trend line between total orders and profits, with a correlation coefficient of 0.82. This indicates a strong positive relationship, suggesting that as the number of orders increases, profits tend to increase as well.
   
 <p align="center">
@@ -34,8 +34,13 @@ For a comprehensive business overview, you can explore the interactive tableau d
 </p>
 
 ### Shipment
-- The business needs drastic improvement to it's shipping process. Data shows that more than 25% of orders are shipped late every year. This weakens the positive impact of early shipment percentage (~50% yearly).
+- The business needs drastic improvement in it's shipping process. Data shows that more than 25% of orders are shipped late every year. This weakens the positive impact of early shipment percentage (~50% yearly).
+- There is an enormous difference in shipping efficiency among various shipping methods. Business has seen between 84% to 77% orders shipping late for "First Class" shipping method throughout the four(4) years and between 2% to ~6% for "Same day" method. The other two shipping methods i.e. Standard & Second class, are in between.  
+- Preferred shipment method across all regions remained to be "Standard Class", handling most of the orders each year.
+- Two shipping methods i.e. Second & Standard class, are shipping orders early; 38.9% and 69.7% respectively.
 - 
+<img width="169" height="97" alt="image" src="https://github.com/user-attachments/assets/cb8af439-5f67-4904-b717-8f8a4097538b" />
+
 ### Product
 ### Recommendations
 

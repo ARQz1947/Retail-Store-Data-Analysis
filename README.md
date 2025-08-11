@@ -39,6 +39,10 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - Preferred shipment method across all regions remained to be "Standard Class", handling most of the orders each year.
 - Two shipping methods i.e. Second & Standard class, are shipping orders early; 38.9% and 69.7% respectively of all the orders shipped through these methods.
 
+<p align="center">
+  <img src="images/LateShipByMethod.png" style="margin-right: 10px;" width = "500" height = "500" />
+  <img src="images/LateShipByRegion.png" width = "390" height = "237" />
+</p>
 
 ### Product
 ### Recommendations

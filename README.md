@@ -29,8 +29,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - The visual analysis reveals an upward-sloping trend line between total orders and profits, with a correlation coefficient of 0.82. This indicates a strong positive relationship, suggesting that as the number of orders increases, profits tend to increase as well.
   
 <p align="center">
-  <img src="images/orders&profits.png" style="margin-right: 10px;" width = "500" height = "500" />
-  <img src="images/orders&profits_trend.png" width = "390" height = "237" />
+  <img src="images/OrdersProfits&Trend.png" style="margin-right: 10px;" width = "500" height = "500" />
 </p>
 
 ### Shipment
@@ -40,8 +39,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - Two shipping methods i.e. Second & Standard class, are shipping orders early; 38.9% and 69.7% respectively of all the orders shipped through these methods.
 
 <p align="center">
-  <img src="images/LateShipByMethod.png" style="margin-right: 10px;"  width = "500" height = "348" />
-  <img src="images/LateShipByRegion.png" width = "500" height = "690"/>
+  <img src="images/LateShipTrend.png" style="margin-right: 10px;"  width = "500" height = "348" />
 </p>
 
 ### Product

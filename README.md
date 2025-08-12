@@ -41,7 +41,6 @@ For a comprehensive business overview, you can explore the interactive tableau d
 <p align="center">
   <img src="images/LateEarlyShip.png" style="margin-right: 10px;"/>
 </p>
-
 <p align="center">
   <img src="images/LateShipTrend.png" style="margin-right: 10px;"/>
 </p>

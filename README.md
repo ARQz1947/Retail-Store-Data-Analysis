@@ -23,7 +23,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - Business has not introduced incentive program for customers. It can use various KPIs such as customer with the most sales or profit per quarter or year.
 - Business can also introduce loyalty program to customers who are frequently buying annually. Many customers have bought more than once a year. Such incentive based programs form a sense of relationship between the business and the customer. <i> add result set of customers who bought more than twice a year</i>
 ### Order
-- The order rate sees growth in each year showing a spike of 27% in 2023 from 7%, the previous year. In 2024, the growth rate was 28% though the profits growth rate was lower (14%) than 2023. This is because of high number of discounted order (25% growth rate) in the year.
+- The order rate have seen growth in each year, showing a spike of 27% in 2023 from 7%, the previous year. In 2024, the growth rate was 28% though the profit growth rate was lower (at 14%) than 2023. This is because of high number of discounted order (25% growth rate) in the year.
 - West region has high profitability despite moderate AOV(Avg Order Value). Central has lower AOV and declining profits, suggesting performance issues in the region.
 - Analysis of orders and profits shows that West region has highest orders & profits each year except for 2022. When orders were the highest but not the profit.
 - The visual analysis reveals an upward-sloping trend line between total orders and profits, with a correlation coefficient of 0.82. This indicates a strong positive relationship, suggesting that as the number of orders increases, profits tend to increase as well.
@@ -46,5 +46,8 @@ For a comprehensive business overview, you can explore the interactive tableau d
 </p>
 
 ### Product
+- 
 ### Recommendations
+### Caveats
+- The dataset does not explicitly distinguish between new and existing products. For this analysis, products were classified as “new” in the year of their first recorded order. This approach assumes that the year of first order of a product is the introduction year of that product, which may not always reflect the actual launch year.
 

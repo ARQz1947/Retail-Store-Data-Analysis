@@ -52,7 +52,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - The business is launching fewer new products, with most falling in the bottom 50% of sales, except one in the electronics category. This reliance on mature products may reflect supply chain limits or a risk-averse strategy. While it stabilizes sales, it also underscores the need to boost innovation and marketing for new offerings in the years to come.
 
 <p align="center">
-  <img src="images/CategorySummary.png" style="margin-right: 10px;"/>
+  <img src="images/CategorySummary.png" style="margin-right: 10px; width:60%; height:10%;"/>
 </p>
 <p align="center">
   <img src="images/NewProductsSales.png" style="margin-right: 10px;"/>

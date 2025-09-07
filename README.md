@@ -45,8 +45,19 @@ For a comprehensive business overview, you can explore the interactive tableau d
   <img src="images/LateShipTrend.png" style="margin-right: 10px;"/>
 </p>
 
-### Product
-- 
+### Products
+- More than half of the products in the data belong to stationery category (57%). Electronics and home interiors category have almost same products share, 22% and 22.5%.
+- Sales for these three categories is quite close to one another. The most contribution in sales is by electronics at 36.4%, followed by home interiors 32.3% and Stationery 31.3%.
+- Profit share is most contributed by Electronics at 50.7%, half of the overall profit. Stationery profit share is at 42.7% which leaves home interior at only 6.4% share.
+- The business is launching fewer new products, with most falling in the bottom 50% of sales, except one in electronics category. This reliance on mature products may reflect supply chain limits or risk-averse strategy. While it stabilizes sales, it also underscores the need to boost innovation and marketing for new offerings in years to come.
+
+<p align="center">
+  <img src="images/LateEarlyShip.png" style="margin-right: 10px;"/>
+</p>
+<p align="center">
+  <img src="images/LateShipTrend.png" style="margin-right: 10px;"/>
+</p>
+
 ### Recommendations
 ### Caveats
 - The dataset does not explicitly distinguish between new and existing products. For this analysis, products were classified as “new” in the year of their first recorded order. This approach assumes that the year of first order of a product is the introduction year of that product, which may not always reflect the actual launch year.

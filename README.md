@@ -46,16 +46,16 @@ For a comprehensive business overview, you can explore the interactive tableau d
 </p>
 
 ### Products
-- More than half of the products in the data belong to stationery category (57%). Electronics and home interiors category have almost same products share, 22% and 22.5%.
-- Sales for these three categories is quite close to one another. The most contribution in sales is by electronics at 36.4%, followed by home interiors 32.3% and Stationery 31.3%.
-- Profit share is most contributed by Electronics at 50.7%, half of the overall profit. Stationery profit share is at 42.7% which leaves home interior at only 6.4% share.
-- The business is launching fewer new products, with most falling in the bottom 50% of sales, except one in electronics category. This reliance on mature products may reflect supply chain limits or risk-averse strategy. While it stabilizes sales, it also underscores the need to boost innovation and marketing for new offerings in years to come.
+- More than half of the products in the data belong to the stationery category (57%). The electronics and home interiors category are closer to each other in product count share, 22% and 22.5% respectively.
+- Sales for these three categories are quite close to one another. The most contribution in sales is by electronics at 36.4%, followed by home interiors at 32.3% and Stationery at 31.3%.
+- Electronics makes the most contribution to profits at 50.7%, half of the overall profit. The stationery profit share is at 42.7%, which leaves the home interior share at only 6.4%.
+- The business is launching fewer new products, with most falling in the bottom 50% of sales, except one in the electronics category. This reliance on mature products may reflect supply chain limits or a risk-averse strategy. While it stabilizes sales, it also underscores the need to boost innovation and marketing for new offerings in the years to come.
 
 <p align="center">
-  <img src="images/LateEarlyShip.png" style="margin-right: 10px;"/>
+  <img src="images/CategorySummary.png" style="margin-right: 10px;"/>
 </p>
 <p align="center">
-  <img src="images/LateShipTrend.png" style="margin-right: 10px;"/>
+  <img src="images/NewProductsSales.png" style="margin-right: 10px;"/>
 </p>
 
 ### Recommendations

@@ -54,8 +54,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
 <p align="center">
     <img src="images/CategorySummary.png" style="margin-right: 10px; width:32%; height:8%;"/>
     <img src="images/SalesContri.png" style="margin-right: 10px; width:32%; height:50%;"/>
-    <img src="images/NewProdContri.png" style="margin-right: 10px; width:32%; height:8%;"/>
-    <img src="images/NewProductsCount.png" style="margin-right: 10px;"/>
+    <img src="images/NewProdContribution.png" style="margin-right: 10px; width:32%; height:8%;"/>
 </p>
 
 ### Recommendations

@@ -23,15 +23,18 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - Business has not introduced incentive program for customers. It can use various KPIs such as customer with the most sales or profit per quarter or year.
 - Business can also introduce loyalty program to customers who are frequently buying annually. Many customers have bought more than once a year. Such incentive based programs form a sense of relationship between the business and the customer. <i> add result set of customers who bought more than twice a year</i>
 ### Order
-- The order rate have seen growth in each year, showing a spike of 27% in 2023 from 7%, the previous year. In 2024, the growth rate was 28% though the profit growth rate was lower (at 14%) than 2023. This is because of high number of discounted order (25% growth rate) in the year.
+- The order rate have seen growth each year, showing a spike of 27% in 2023 from 7%, the previous year. In 2024, the order growth rate was 28% but the profit growth rate was lower (at 14%) than 2023. This is because of high number of discounted order (25% growth rate) in the year.
 - West region has high profitability despite moderate AOV(Avg Order Value). Central has lower AOV and declining profits, suggesting performance issues in the region.
 - Analysis of orders and profits shows that West region has highest orders & profits each year except for 2022. When orders were the highest but not the profit.
 - The visual analysis reveals an upward-sloping trend line between total orders and profits, with a correlation coefficient of 0.82. This indicates a strong positive relationship, suggesting that as the number of orders increases, profits tend to increase as well.
+- Comparison of disounted and non-discounted orders shows that except for January and February, number of discounted orders are significantly more than non-discounted orders. Giving us a hint that the business relies on discounts throughout the year except for start of the year. 
   
 <p align="center">
   <img src="images/OrdersProfits&Trend.png" style="margin-right: 10px;"/>
 </p>
-
+<p align="center">
+  <img src="images/DiscountNoDiscount.png" style="margin-right: 10px;"/>
+</p>
 ### Shipment
 - The business needs drastic improvement in it's shipping process. Data shows that between 25% and 28% of the orders are shipped late every year and it has increased in the last year. This weakens the positive impact of early shipment percentage (~50% yearly). Each region is showing increase in late shipment, atleast for the last year of the business, 2024.
 - There is an enormous difference in shipping efficiency among various shipping methods. Business has seen between 84% to 77% orders shipping late for "First Class" shipping method throughout the four(4) years and between 2% to ~6% for "Same day" method. The other two shipping methods i.e. Standard & Second class, are in between.  

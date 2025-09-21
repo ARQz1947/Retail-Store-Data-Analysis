@@ -54,7 +54,9 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - Electronics makes the most contribution to profits at 50.7%, half of the overall profit. The stationery profit share is at 42.7%, which leaves the home interior share at only 6.4%.
 - The business is launching fewer new products each year, with most falling in the bottom 50% of sales, except one in the electronics category. This reliance on mature products may reflect supply chain limits or a risk-averse strategy. While it stabilizes sales, it also underscores the need to boost innovation and marketing for new products to reap sales benefits in the years to come.
 - The portfolio is weighted toward Growth-stage products (30%), signaling expansion potential, while a sizable share is in Decline or Discontinued (38%), highlighting risk of product churn. Reactivated items (17%) show promise but the low Maturity share (2%) suggests limited long-term stability. Nearly 10% unclassified products indicate gaps in lifecycle visibility.
-
+- Many products sell strongly without discounts. However, the 20% discount consistently drives higher order volumes across categories. This suggests an optimal balance between boosting sales and maintaining profitability.
+- Deep discounts of 50% and more appear in each category. This signals weak demand or inventory issues, which raises the risk of margin erosion.
+- 
 <p align="center">
     <img src="images/CategorySummary.png" style="margin-right: 10px; width:32%; height:8%;"/>
     <img src="images/SalesContri.png" style="margin-right: 10px; width:32%; height:50%;"/>
@@ -66,6 +68,8 @@ For a comprehensive business overview, you can explore the interactive tableau d
 ### Recommendations
 #### Products
 - Prioritize scaling Growth products, review Decline/Discontinued items for pruning or repositioning, and strengthen monitoring of reactivated and unclassified products to capture hidden opportunities.
+- Limit unnecessary discounts on products with proven no-discount demand to protect profitability.
+- Standardize the 20% discount level as a benchmark for promotional campaigns.
 ### Caveats
 - The dataset does not explicitly distinguish between new and existing products. For this analysis, products were classified as “new” in the year of their first recorded order. This approach assumes that the year of first order of a product is the introduction year of that product, which may not always reflect the actual launch year.
 

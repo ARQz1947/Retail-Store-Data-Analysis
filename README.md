@@ -57,7 +57,11 @@ For a comprehensive business overview, you can explore the interactive tableau d
 
 <p align="center">
     <img src="images/CategoriesSummary.png" style="margin-right: 10px; width:32%; height:8%;"/>
+</p>
+<p align="center">
     <img src="images/NewProductsAndPLC.png" style="margin-right: 10px; width:32%; height:50%;"/>
+</p>
+<p align="center">
     <img src="images/SubCatsOrdersDiscount.png" style="margin-right: 10px; width:32%; height:8%;"/>
 </p>
 

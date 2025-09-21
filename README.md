@@ -62,7 +62,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
     <img src="images/NewProductsAndPLC.png" style="margin-right: 10px;"/>
 </p>
 <p align="center">
-    <img src="images/SubCatsOrdersDiscount.png" style="margin-right: 10px;"/>
+    <img src="images/SubCatsOrdersDiscounts.png" style="margin-right: 10px;"/>
 </p>
 
 ### Recommendations

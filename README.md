@@ -49,14 +49,12 @@ For a comprehensive business overview, you can explore the interactive tableau d
 </p>
 
 ### Products
-- More than half of the products in the data belong to the stationery category (57%). The electronics and home interiors category are closer to each other in product count share, 22% and 22.5% respectively.
-- Sales for these three categories are quite close to one another. The most contribution in sales is by electronics at 36.4%, followed by home interiors at 32.3% and Stationery at 31.3%.
-- Electronics makes the most contribution to profits at 50.7%, half of the overall profit. The stationery profit share is at 42.7%, which leaves the home interior share at only 6.4%.
+- Sales for the three categories i.e. electronics, home interios and stationery, are quite close to one another. The most contribution is by electronics at 36.4%, followed by home interiors at 32.3% and Stationery at 31.3%.
+- More than half of the products in the data belong to the stationery category (57%). However, electronics makes half of the overall profit contribution at 50.7%.
 - The business is launching fewer new products each year, with most falling in the bottom 50% of sales, except one in the electronics category. This reliance on mature products may reflect supply chain limits or a risk-averse strategy. While it stabilizes sales, it also underscores the need to boost innovation and marketing for new products to reap sales benefits in the years to come.
-- The portfolio is weighted toward Growth-stage products (30%), signaling expansion potential, while a sizable share is in Decline or Discontinued (38%), highlighting risk of product churn. Reactivated items (17%) show promise but the low Maturity share (2%) suggests limited long-term stability. Nearly 10% unclassified products indicate gaps in lifecycle visibility.
-- Many products sell strongly without discounts. However, the 20% discount consistently drives higher order volumes across categories. This suggests an optimal balance between boosting sales and maintaining profitability.
-- Deep discounts of 50% and more appear in each category. This signals weak demand or inventory issues, which raises the risk of margin erosion.
-- 
+- The portfolio is weighted toward Growth-stage products (30%), signaling expansion potential, while a sizable share is in Decline or Discontinued stage (38%), highlighting risk of product churn. Reactivated items (17%) show promise but the low Maturity share (2%) suggests limited long-term stability. Nearly 10% unclassified products indicate gaps in lifecycle visibility.
+- Many products sell strongly without discounts. However, the 20% discount consistently drives higher order volumes across categories. This suggests an optimal balance between boosting sales and maintaining profitability. Deep discounts of 50% and more, appear in each category. This signals weak demand or inventory issues, which raises the risk of margin erosion.
+
 <p align="center">
     <img src="images/CategorySummary.png" style="margin-right: 10px; width:32%; height:8%;"/>
     <img src="images/SalesContri.png" style="margin-right: 10px; width:32%; height:50%;"/>

@@ -33,7 +33,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
   <img src="images/OrdersProfits&Trend.png" style="margin-right: 10px;"/>
 </p>
 <p align="center">
-  <img src="images/DiscountNoDiscount.png" style="margin-right: 10px; width: 100%; height: 70%"/>
+  <img src="images/DiscountNoDiscount.png" style="margin-right: 10px; width: 500px; height: 300px"/>
 </p>
 ### Shipment
 - The business needs drastic improvement in it's shipping process. Data shows that between 25% and 28% of the orders are shipped late every year and it has increased in the last year. This weakens the positive impact of early shipment percentage (~50% yearly). Each region is showing increase in late shipment, atleast for the last year of the business, 2024.

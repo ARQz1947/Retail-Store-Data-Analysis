@@ -56,10 +56,8 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - Many products sell strongly without discounts. However, the 20% discount consistently drives higher order volumes across categories. This suggests an optimal balance between boosting sales and maintaining profitability. Deep discounts of 50% and more, appear in each category. This signals weak demand or inventory issues, which raises the risk of margin erosion.
 
 <p align="center">
-    <img src="images/CategorySummary.png" style="margin-right: 10px; width:32%; height:8%;"/>
-    <img src="images/SalesContri.png" style="margin-right: 10px; width:32%; height:50%;"/>
-    <img src="images/NewProdContribution.png" style="margin-right: 10px; width:32%; height:8%;"/>
-    <img src="images/ProductsPLC.png" style="margin-right: 10px; width:32%; height:8%;"/>
+    <img src="images/CategoriesSummary.png" style="margin-right: 10px; width:32%; height:8%;"/>
+    <img src="images/NewProductsAndPLC.png" style="margin-right: 10px; width:32%; height:50%;"/>
     <img src="images/SubCatsOrdersDiscount.png" style="margin-right: 10px; width:32%; height:8%;"/>
 </p>
 

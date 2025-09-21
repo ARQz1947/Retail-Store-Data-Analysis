@@ -49,7 +49,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
 </p>
 
 ### Products
-- Sales for the three categories i.e. electronics, home interios and stationery, are quite close to one another. The most contribution is by electronics at 36.4%, followed by home interiors at 32.3% and Stationery at 31.3%.
+- Sales for the three categories i.e. electronics, home interiors and stationery, are quite close to one another. The most contribution is by electronics at 36.4%, followed by home interiors at 32.3% and Stationery at 31.3%.
 - More than half of the products in the data belong to the stationery category (57%). However, electronics makes half of the overall profit contribution at 50.7%.
 - The business is launching fewer new products each year, with most falling in the bottom 50% of sales, except one in the electronics category. This reliance on mature products may reflect supply chain limits or a risk-averse strategy. While it stabilizes sales, it also underscores the need to boost innovation and marketing for new products to reap sales benefits in the years to come.
 - The portfolio is weighted toward Growth-stage products (30%), signaling expansion potential, while a sizable share is in Decline or Discontinued stage (38%), highlighting risk of product churn. Reactivated items (17%) show promise but the low Maturity share (2%) suggests limited long-term stability. Nearly 10% unclassified products indicate gaps in lifecycle visibility.

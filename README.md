@@ -33,7 +33,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
   <img src="images/OrdersProfits&Trend.png" style="margin-right: 10px;"/>
 </p>
 <p align="center">
-  <img src="images/DiscountNoDiscount.png" style="margin-right: 10px;"/>
+  <img src="images/DiscountNoDiscount.png" style="margin-right: 10px; width: 70%; height: 70%"/>
 </p>
 ### Shipment
 - The business needs drastic improvement in it's shipping process. Data shows that between 25% and 28% of the orders are shipped late every year and it has increased in the last year. This weakens the positive impact of early shipment percentage (~50% yearly). Each region is showing increase in late shipment, atleast for the last year of the business, 2024.
@@ -42,7 +42,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - Standard class and Second Class shipping methods are shipping orders early. They are shipping 69.7% and 38.9% of the orders early, respectively.
 
 <p align="center">
-  <img src="images/LateEarlyShip.png" style="margin-right: 10px; width: 70%; height: 70%"/>
+  <img src="images/LateEarlyShip.png" style="margin-right: 10px;"/>
 </p>
 <p align="center">
   <img src="images/LateShipTrend.png" style="margin-right: 10px;"/>

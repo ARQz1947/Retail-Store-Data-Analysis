@@ -27,7 +27,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - West region has high profitability despite moderate AOV(Avg Order Value). Central has lower AOV and declining profits, suggesting performance issues in the region.
 - Analysis of orders and profits shows that West region has highest orders & profits each year except for 2022. When orders were the highest but not the profit.
 - The visual analysis reveals an upward-sloping trend line between total orders and profits, with a correlation coefficient of 0.82. This indicates a strong positive relationship, suggesting that as the number of orders increases, profits tend to increase as well.
-- Comparison of disounted and non-discounted orders shows that except for January and February, number of discounted orders are significantly more than non-discounted orders. Giving us a hint that the business relies on discounts throughout the year except for start of the year. 
+- Comparison of disounted and non-discounted orders shows that except for January and February, number of discounted orders are significantly more than non-discounted orders. Giving us a hint that the business relies on discounts throughout the year except for the start of the year. 
   
 <p align="center">
   <img src="images/OrdersProfits&Trend.png" style="margin-right: 10px;"/>
@@ -42,7 +42,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - Standard class and Second Class shipping methods are shipping orders early. They are shipping 69.7% and 38.9% of the orders early, respectively.
 
 <p align="center">
-  <img src="images/LateEarlyShip.png" style="margin-right: 10px;"/>
+  <img src="images/LateEarlyShip.png" style="margin-right: 10px; width: 70%; height: 70%"/>
 </p>
 <p align="center">
   <img src="images/LateShipTrend.png" style="margin-right: 10px;"/>

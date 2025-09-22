@@ -37,11 +37,11 @@ For a comprehensive business overview, you can explore the interactive tableau d
 </p>
 
 ### Shipment
+- Most of the customers preferred to choose "Standard Class" as the shipment method across all regions for each year.
+- Early shipments are observed only in Standard Class (69.7%) and Second Class (38.9%), while no other shipping methods record early deliveries. This suggests operational efficiency is skewed toward specific shipping modes, potentially creating inconsistent customer experiences across delivery options.
 - The business needs drastic improvement in it's shipping process. Data shows that between 25% and 28% of the orders are shipped late every year and it has increased in the last year. This weakens the positive impact of early shipment percentage (~50% yearly). Each region is showing increase in late shipment, atleast for the last year of the business, 2024.
-- There is an enormous difference in shipping efficiency among various shipping methods. Business has seen between 84% to 77% orders shipping late for "First Class" shipping method throughout the four(4) years and between 2% to ~6% for "Same day" method. The other two shipping methods i.e. Standard & Second class, are in between.  
-- Preferred shipment method across all regions remained to be "Standard Class", handling most of the orders each year.
-- Standard class and Second Class shipping methods are shipping orders early. They are shipping 69.7% and 38.9% of the orders early, respectively.
-
+- There is an enormous difference in shipping efficiency among various shipping methods. Business has seen between 84% to 77% orders shipping late for "First Class" shipping method throughout the four(4) years and between 2% to ~6% for "Same day" method. The other two shipping methods i.e. Standard & Second class, are in between.
+- 
 <p align="center">
   <img src="images/EarlyLateShip.png" style="margin-right: 10px;"/>
 </p>
@@ -71,6 +71,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - Prioritize scaling Growth products, review Decline/Discontinued items for pruning or repositioning, and strengthen monitoring of reactivated and unclassified products to capture hidden opportunities.
 - Limit unnecessary discounts on products with proven no-discount demand to protect profitability.
 - Standardize the 20% discount level as a benchmark for promotional campaigns.
+- Evaluate logistics processes for First Class and Same Day shipping to identify bottlenecks and explore strategies to standardize early or on-time deliveries across all shipment modes."
 ### Caveats
 - The dataset does not explicitly distinguish between new and existing products. For this analysis, products were classified as “new” in the year of their first recorded order. This approach assumes that the year of first order of a product is the introduction year of that product, which may not always reflect the actual launch year.
 

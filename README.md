@@ -18,7 +18,8 @@ For a comprehensive business overview, you can explore the interactive tableau d
 - Discounts tend to increase sales, but the business took a big hit on profits from its discounts. The average profit per order for discounted products is -$6.5 and $66.3 for products sold at the original price.
 ### Customer Growth & Retention
 - New customer growth rate is declining steadily year-over-year. There is a slight recovery in new customer growth in 2023 (0.93%) than 2022 (-14.5%). The business can consider improving its marketing strategy and conversion rate.
-- Business has also seen a decline in repeat customer rate (more than 1 order per year), consistently over the years. It declined from 31% in 2021 to 60% in 2024. It could be customer dissatisfaction, lack of re-engagement strategies, or increased competition. <i> Repeat customer: Customers with more than 1 order a year. </i>
+- Business has also seen a decline in repeat customer rate (more than 1 order per year), consistently over the years. It declined from 31% in 2021 to 60% in 2024. It could be customer dissatisfaction, lack of re-engagement strategies, or increased competition.
+  <i> Repeat customer: Customers with more than 1 order a year. </i>
 - Business has not introduced incentive program for customers. It can use various KPIs such as customer with the most sales or profit per quarter or year.
 - Business can also introduce loyalty program to customers who are frequently buying annually. Many customers bought more than once a year. Such incentive based programs form a sense of relationship between the business and the customer. <i> add result set of customers who bought more than twice a year</i>
 ### Order

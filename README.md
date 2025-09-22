@@ -11,15 +11,14 @@ For a comprehensive business overview, you can explore the interactive tableau d
 
 ## Insights
 ### Profit Growth & Trends
-- The store gathered around $300K in profits over the years with total sales of $2.3 million.
-- Year 2023 was the best year for the business. It showed highest profit growth rate of 32%. However, it rapidly declined the very next year 2024 and settled for 14%.
-- West and East regions remains the most profitable of them all. Collectively contributing a total of 69% to overall profit.
-- Discounts tend to increase sales but business took big hit on profits for its discounts. The average profit per order for discounted products is -$6.5 and $66.3 for products sold at original price.
-- Business has shown highest profits in Q4 of each year, probably because of holiday season and festivities. Weaker returns are seen at the start of each year i.e. Q1.
-- There are clear cases of high sales but low profits with some sub-categories. Tables are showing high sales, ranking at 4 but are in loss with negative profit. Machines also show good sales (rank 6) but have very low profits (rank 13). 
+- The store gathered around $300K in profits over the years with total sales of $2.3 million. The year 2023 was the best year for the business as it had its highest profit growth rate of 32%. However, it rapidly declined the very next year and settled at 14%.
+- West and East regions remain the most profitable of them all. Collectively contributing a total of 69% to overall profits.
+- Business has shown the highest profits in Q4 of each year, probably because of the holiday season and festivities. Weaker returns are seen at the start of each year, i.e., Q1.
+- There are clear cases of high sales but low profits with some sub-categories. Tables are showing high sales, ranking at number four (4) out of 17 sub-categories but are in loss with negative profit. Machines also show good sales (rank # 6) but have very low profits (rank 13).
+- Discounts tend to increase sales, but the business took a big hit on profits from its discounts. The average profit per order for discounted products is -$6.5 and $66.3 for products sold at the original price.
 ### Customer Growth & Retention
-- New customer growth rate is declining steadily year-over-year. There is a slight recovery in new customer growth in 2023 (0.93%) than 2022 (-14.5%). Business can consider improving their marketing strategy and conversion rate
-- Business has also seen decline in repeat customer rate (more than 1 order per year), consistently over the years. It declined from 31% in 2021 to 60% in 2024. It could be customer dissatisfaction, lack of re-engagement strategies, or increased competition.
+- New customer growth rate is declining steadily year-over-year. There is a slight recovery in new customer growth in 2023 (0.93%) than 2022 (-14.5%). The business can consider improving its marketing strategy and conversion rate.
+- Business has also seen a decline in repeat customer rate (more than 1 order per year), consistently over the years. It declined from 31% in 2021 to 60% in 2024. It could be customer dissatisfaction, lack of re-engagement strategies, or increased competition. <i> Repeat customer: Customers with more than 1 order a year.
 - Business has not introduced incentive program for customers. It can use various KPIs such as customer with the most sales or profit per quarter or year.
 - Business can also introduce loyalty program to customers who are frequently buying annually. Many customers bought more than once a year. Such incentive based programs form a sense of relationship between the business and the customer. <i> add result set of customers who bought more than twice a year</i>
 ### Order

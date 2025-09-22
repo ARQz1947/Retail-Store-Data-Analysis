@@ -35,6 +35,7 @@ For a comprehensive business overview, you can explore the interactive tableau d
 <p align="center">
   <img src="images/DiscountNoDiscount.png" style="margin-right: 10px; width: 50%"/>
 </p>
+
 ### Shipment
 - The business needs drastic improvement in it's shipping process. Data shows that between 25% and 28% of the orders are shipped late every year and it has increased in the last year. This weakens the positive impact of early shipment percentage (~50% yearly). Each region is showing increase in late shipment, atleast for the last year of the business, 2024.
 - There is an enormous difference in shipping efficiency among various shipping methods. Business has seen between 84% to 77% orders shipping late for "First Class" shipping method throughout the four(4) years and between 2% to ~6% for "Same day" method. The other two shipping methods i.e. Standard & Second class, are in between.  

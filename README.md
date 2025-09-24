@@ -16,6 +16,11 @@ For a comprehensive business overview, you can explore the interactive Tableau d
 - Business received the highest profits in Q4 of each year, probably because of the holiday season and festivities. Weaker returns are seen at the start of each year, i.e., Q1, except for the year 2024.
 - Profits & Sales Performance Matrix shows that 17.6% of sub-categories drive high sales but low profits, while another 17.6% deliver low sales but high profits. Underperformers, mainly stationery items, make up 29.4% with both low sales and profits. Star performers (high sales & profits) dominate at 35.3%, led by electronics.
 - Discounts tend to increase sales, but the business took a big hit on profits from its discounts. The average profit per order for discounted products is -$6.5 and $66.3 for products sold at the original price.
+
+<p align="center">
+    <img align="center" src="images/dashboard.png" alt="Alt Text" style="width:60%; height:10%;"/>
+</p>
+
 ### Customer Growth & Retention
 - New customer growth rate is declining steadily year-over-year. There is a slight recovery in new customer growth in 2023 (0.93%) than 2022 (-14.5%). The business can consider improving its marketing strategy and conversion rate.
 - Business has also seen a decline in repeat customer rate, consistently over the years. It declined from 31% in 2021 to 60% in 2024. It could be customer dissatisfaction, lack of re-engagement strategies, or increased competition. </br> <i> Repeat customers: Customers with more than 1 order a year. </i>

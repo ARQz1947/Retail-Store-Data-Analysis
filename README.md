@@ -18,7 +18,9 @@ For a comprehensive business overview, you can explore the interactive Tableau d
 - Discounts tend to increase sales, but the business took a big hit on profits from its discounts. The average profit per order for discounted products is -$6.5 and $66.3 for products sold at the original price.
 
 <p align="center">
-    <img align="center" src="images/dashboard.png" alt="Alt Text" style="width:60%; height:10%;"/>
+    <img align="center" src="images/CategoriesSummary.png" style="margin-right: 10px;"/>
+    <img align="center" src="images/dashboard.png" style="margin-right: 10px;"/>
+    <img align="center" src="images/dashboard.png" style="margin-right: 10px;"/>
 </p>
 
 ### Customer Growth & Retention

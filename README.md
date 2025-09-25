@@ -21,8 +21,8 @@ For a comprehensive business overview, you can explore the interactive Tableau d
     <img align="center" src="images/CategoriesSummary.png" style="margin-right: 10px;"/>
 </p>
 <p align="center">
-    <img align="center" src="images/QtrProfits.png" style="margin-right: 10px; width:40%; height:10%;"/>
-    <img align="center" src="images/CatsPerfMatrix.png" style="margin-right: 10px;"/>
+    <img align="center" src="images/QtrProfits.png" style="margin-right: 10px; width:50%; height:10%;"/>
+    <img align="center" src="images/CatsPerfMatrix.png" style="margin-right: 10px; width:50%; height:10%;"/>
 </p>
 
 ### Customer Growth & Retention

@@ -11,17 +11,16 @@ For a comprehensive business overview, you can explore the interactive Tableau d
 
 ## Insights
 ### Profits & Sales
-- The store earned around $300K in profits over the years with total sales of $2.3 million. The year 2023 was the best year for the business as it had its highest profit growth rate of 32%. However, it rapidly declined the very next year and settled at 14%.
+- The store earned around $300K in profits over the years with total sales of $2.3 million. The year 2023 was the best year for the business as it had its highest profit growth rate of 32.7%. However, it rapidly declined the very next year and settled at 14%.
 - West and East regions remain the most profitable of them all. Collectively contributing a total of ~70% to overall profits.
 - Business received the highest profits in Q4 of each year, probably because of the holiday season and festivities. Weaker returns are seen at the start of each year, i.e., Q1, except for the year 2024.
 - Profits & Sales Performance Matrix shows that 17.6% of sub-categories drive high sales but low profits, while another 17.6% deliver low sales but high profits. Underperformers, mainly stationery items, make up 29.4% with both low sales and profits. Star performers (high sales & profits) dominate at 35.3%, led by electronics.
 - Discounts tend to increase sales, but the business took a big hit on profits from its discounts. The average profit per order for discounted products is -$6.5 and $66.3 for products sold at the original price.
 
 <p align="center">
-    <img align="center" src="images/CategoriesSummary.png" style="margin-right: 10px;"/>
+    <img align="center" src="images/ProfitsSales.png" style="margin-right: 10px;"/>
 </p>
 <p align="center">
-    <img align="center" src="images/QtrProfits.png" style="margin-right: 10px; width:50%; height:50%;"/>
     <img align="center" src="images/CatsPerfMatrix.png" style="margin-right: 10px; width:30%; height:10%;"/>
 </p>
 

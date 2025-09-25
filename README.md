@@ -21,7 +21,7 @@ For a comprehensive business overview, you can explore the interactive Tableau d
     <img align="center" src="images/ProfitsSales.png" style="margin-right: 10px;"/>
 </p>
 <p align="center">
-    <img align="center" src="images/CatsPerfMatrix.png" style="margin-right: 10px; width:30%; height:10%;"/>
+    <img align="center" src="images/CatsPerfMatrix.png" style="margin-right: 10px;"/>
 </p>
 
 ### Customer Growth & Retention

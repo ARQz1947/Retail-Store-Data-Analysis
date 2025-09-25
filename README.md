@@ -22,8 +22,6 @@ For a comprehensive business overview, you can explore the interactive Tableau d
 </p>
 <p align="center">
     <img align="center" src="images/QtrProfits.png" style="margin-right: 10px;"/>
-</p>
-<p align="center">
     <img align="center" src="images/CatsPerfMatrix.png" style="margin-right: 10px;"/>
 </p>
 

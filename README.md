@@ -25,7 +25,7 @@ For a comprehensive business overview, you can explore the interactive Tableau d
 
 ### Customer Growth & Retention
 - New customer growth rate is declining steadily year-over-year. There is a slight recovery in new customer growth in the year 2023 (0.93%). The business can consider enhancing its marketing strategy and improving its conversion rate.
-- Business has also seen a decline in repeat customer rate, consistently over the years. It declined from 31% in 2021 to 60% in 2024. Reasons could be customer dissatisfaction, lack of re-engagement strategies, or increased competition.
+- Business has also seen a decline in repeat customer rate, consistently over the years. It declined from 31% in 2021 to 59% in 2024. Reasons could be customer dissatisfaction, lack of re-engagement strategies, or increased competition.
 - Business has not introduced an incentive program for its customers. It can use various KPIs, such as the customer with the most sales or profit per quarter or year.
 - Business can also introduce a loyalty program to customers who are buying frequently. Many customers made multiple purchases each year. Such incentive-based programs form a sense of relationship between the business and the customer.
 
@@ -33,7 +33,7 @@ For a comprehensive business overview, you can explore the interactive Tableau d
     <img align="center" src="images/Customers.png" style="margin-right: 10px;"/>
 </p>
 
-### Order
+### Orders
 - The order rate have seen growth each year, showing a spike of 27% in 2023 from 7%, the previous year. In 2024, the order growth rate was 28% but the profit growth rate was lower (at 14%) than 2023. This is because of high number of discounted orders (25% growth rate) in the year.
 - West region has high profitability despite moderate AOV(Avg Order Value). Central has lower AOV and declining profits, suggesting performance issues in the region.
 - Analysis of orders and profits shows that West region has highest orders & profits each year except for 2022. When orders were the highest but not the profit.

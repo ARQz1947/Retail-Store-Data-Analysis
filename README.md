@@ -4,6 +4,12 @@
 - [Executive Summary](#Executive-Summary)
 - [Insights](#Insights)
   - [Profits & Sales](#Profits--Sales)
+  - [Customer Growth & Retention](#Customer-Growth--Retention)
+  - [Orders](#Orders)
+  - [Shipment](#Shipment)
+  - [Products](#Products)
+- [Recommendations](#Recommendations)
+- [Files Content](#Files-Content)
 ## Project Background
 The data set used for this data analysis contains four years' sales records (2021 - 2024) of a retail store. The data is narrowed down to the USA only to present a comprehensive data analysis of this region & showcase its performance across key business metrics including sales, profits, shipment efficiency, customer retention, orders and discount impact. It features insights into sales growth trends, product performance, customer acquisition and shipment trends. It concludes with recommendations to enhance growth in sales, profits and customer retention.
 ## Executive Summary
@@ -92,3 +98,7 @@ For a comprehensive business overview, you can explore the interactive Tableau d
 - Optimize conversion funnels (website UX, promotions, first-order incentives) to turn interest into sales.
 - Prioritize scaling Growth products, review Decline/Discontinued items for pruning or repositioning, and strengthen monitoring of reactivated and unclassified products to capture hidden opportunities.
 ---
+### Files Content
+- Raw data, ad-hoc reports and calculations can be accessed through this Excel [Excel Workbooks](./Excel-Workbooks/) folder.
+See my SQL queries in the SQL file.
+See the notebook for data cleaning, visualization, and analysis in the

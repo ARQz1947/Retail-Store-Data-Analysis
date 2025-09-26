@@ -1,4 +1,9 @@
 # Retail-Store-Data-Analysis
+# Table of Contents
+- [Project Background](#Project-Background)
+- [Executive Summary](#Executive-Summary)
+- [Insights](#Insights)
+ - [Profits & Sales](#Profits--Sales)
 ## Project Background
 The data set used for this data analysis contains four years' sales records (2021 - 2024) of a retail store. The data is narrowed down to the USA only to present a comprehensive data analysis of this region & showcase its performance across key business metrics including sales, profits, shipment efficiency, customer retention, orders and discount impact. It features insights into sales growth trends, product performance, customer acquisition and shipment trends. It concludes with recommendations to enhance growth in sales, profits and customer retention.
 ## Executive Summary

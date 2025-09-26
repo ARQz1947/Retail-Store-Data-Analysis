@@ -79,13 +79,11 @@ For a comprehensive business overview, you can explore the interactive Tableau d
 </p>
 
 ### Recommendations
-#### Products
 - Focus on margin improvement for high-sales/low-profit sub-categories, streamline or reposition underperformers, and continue investing in electronics and other star performers to sustain growth.
 - Reassess discounting policies by limiting deep discounts to slow-moving inventory only and prioritize margin-protection strategies on strong sellers. Introduce data-driven, targeted promotions to boost sales without eroding overall profitability.
+- Limit unnecessary discounts on products with proven no-discount demand to protect profitability. Standardize the 20% discount level as a benchmark for promotional campaigns.
+- Evaluate logistics processes for First Class and Same Day shipping to identify bottlenecks and explore strategies to standardize early or on-time deliveries across all shipment modes.
+- Invest in targeted marketing campaigns (social, email, referral programs) to capture untapped audiences.
+- Optimize conversion funnels (website UX, promotions, first-order incentives) to turn interest into sales.
 - Prioritize scaling Growth products, review Decline/Discontinued items for pruning or repositioning, and strengthen monitoring of reactivated and unclassified products to capture hidden opportunities.
-- Limit unnecessary discounts on products with proven no-discount demand to protect profitability.
-- Standardize the 20% discount level as a benchmark for promotional campaigns.
-- Evaluate logistics processes for First Class and Same Day shipping to identify bottlenecks and explore strategies to standardize early or on-time deliveries across all shipment modes."
-### Caveats
-- The dataset does not explicitly distinguish between new and existing products. For this analysis, products were classified as “new” in the year of their first recorded order. This approach assumes that the year of first order of a product is the introduction year of that product, which may not always reflect the actual launch year.
-
+---

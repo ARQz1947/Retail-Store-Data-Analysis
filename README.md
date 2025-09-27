@@ -99,6 +99,6 @@ For a comprehensive business overview, you can explore the interactive Tableau d
 - Prioritize scaling Growth products, review Decline/Discontinued items for pruning or repositioning, and strengthen monitoring of reactivated and unclassified products to capture hidden opportunities.
 ---
 ### Files Content
-- Raw data, ad-hoc reports and calculations can be accessed through this [Excel Workbooks](./Excel-Workbooks/) folder.
-See my SQL queries in the SQL file.
-See the notebook for data cleaning, visualization, and analysis in the
+- [Excel Workbooks](./Excel-Workbooks/) - Raw data, ad-hoc reports and calculations.
+- See my SQL queries in the SQL file.
+- See the notebook for data cleaning, visualization, and analysis in the

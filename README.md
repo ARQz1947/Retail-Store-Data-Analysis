@@ -101,4 +101,3 @@ For a comprehensive business overview, you can explore the interactive Tableau d
 ### Files Content
 - [Excel Workbooks](./Excel-Workbooks/) - Raw data, ad-hoc reports and calculations.
 - [SQL Scripts](./SQLScripts/) - SQL scripts to extract insights from the data.
-- See the notebook for data cleaning, visualization, and analysis in the
